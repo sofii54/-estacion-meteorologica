@@ -9,7 +9,7 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Markdown
-´´´´diff
+´´´diff
 ## Estructura del Proyecto
 + * **analisis_ipynb/** Prototipado de datos en Google Colab.
 - * **arduino_ino/** Código fuente para el Arduino UNO R3.
