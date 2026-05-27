@@ -10,12 +10,12 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## 📂 Estructura del Proyecto
 
-📁 **analisis_ipynb/**: Prototipado de datos y notebooks en Google Colab.
-📁 **arduino_ino/**: Código fuente (.ino) para el microcontrolador Arduino UNO R3.
-📁 **dashboard_pbix/**: Reportes interactivos en Power BI.
-📁 **database_sql/**: Scripts de creación y gestión de base de datos en MySQL Workbench.
-📁 **docs/**: Documentación técnica y marcos legales del software.
-📁 **python_app/**: Aplicación de escritorio desarrollada en Python (POO).
+* 📁 **analisis_ipynb/**: Prototipado de datos y notebooks en Google Colab.
+* 📁 **arduino_ino/**: Código fuente (.ino) para el microcontrolador Arduino UNO R3.
+* 📁 **dashboard_pbix/**: Reportes interactivos en Power BI.
+* 📁 **database_sql/**: Scripts de creación y gestión de base de datos en MySQL Workbench.
+* 📁 **docs/**: Documentación técnica y marcos legales del software.
+* 📁 **python_app/**: Aplicación de escritorio desarrollada en Python (POO).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tecnologías Utilizadas
