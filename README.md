@@ -8,13 +8,14 @@ Este repositorio contiene el desarrollo integral de una estación meteorológica
 | Vergara sofia| smvergara@escuelasproa.edu.ar | [ver perfil](https://github.com/sofii54/-estacion-meteorologica)|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
-## Estructura del Proyecto
-**analisis_ipynb/** Prototipado de datos en Google Colab.
-**arduino_ino/** Código fuente para el Arduino UNO R3.
-**dashboard_pbix/**: Reportes en Power BI.
-**database_sql/**: Scripts de MySQL Workbench.
-**docs/**: Documentación y leyes de software.
-**python_app/**: Aplicación de escritorio (POO).
+## 📂 Estructura del Proyecto
+
+📁 **analisis_ipynb/**: Prototipado de datos y notebooks en Google Colab.
+📁 **arduino_ino/**: Código fuente (.ino) para el microcontrolador Arduino UNO R3.
+📁 **dashboard_pbix/**: Reportes interactivos en Power BI.
+📁 **database_sql/**: Scripts de creación y gestión de base de datos en MySQL Workbench.
+📁 **docs/**: Documentación técnica y marcos legales del software.
+📁 **python_app/**: Aplicación de escritorio desarrollada en Python (POO).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠️ Tecnologías Utilizadas
